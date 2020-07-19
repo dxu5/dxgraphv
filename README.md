@@ -1,0 +1,3 @@
+# Derek's Graph Visualizer
+
+Welcome to my graph algorithm visualizer! On this application, you can visualizer the shortest path between the start and end nodes using some of the most popular pathfinding algorithms: Dijkstra's algorithm, A\*, and Swarm. I also included some extra functionalities, like making walls, adding bombs, and adding weights. When opening this app, there is a short tutorial that will walk you through the basics of the application. I hope that you have as much fun visualizing as I did making this applicaiton and learning about the fascinating world of graph algorithms. As always, feel free to browse this app and others that I have made on my github or on my website: https://dxu5.github.io/website/ Thank you so much!
